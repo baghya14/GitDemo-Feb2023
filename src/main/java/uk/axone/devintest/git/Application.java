@@ -7,6 +7,9 @@ public class Application {
     private void doSomething(){
         System.out.println("Do Something");
     }
+    public void doSomething2(){
+        System.out.println("dance");
+    }
 
 
 }
