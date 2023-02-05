@@ -10,6 +10,9 @@ public class Application {
     public void doSomething2(){
         System.out.println("dance");
     }
+    public void writeNotes(){
+        System.out.println("Notes taken");
+    }
 
 
 }
